@@ -1,0 +1,27 @@
+{
+  "name": "a01-qq358856605",
+  "version": "1.0.0",
+  "description": "test webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/comp426-2023-spring/a01-qq358856605.git"
+  },
+  "keywords": [
+    "webserver",
+    "comp426"
+  ],
+  "author": "qq358856605",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-qq358856605/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-qq358856605#readme",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
